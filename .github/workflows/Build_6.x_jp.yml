@@ -6,7 +6,7 @@ on:
   # schedule 被你不要了，所以移除
 
 env:
-  REPO_URL: https://github.com/istoreos/istoreos
+  REPO_URL: https://github.com/0klaus0/istoreos
   FEEDS_CONF: feeds.conf
   CONFIG_FILE: .config
   DIY_P1_SH: diy-part1-6.x.sh
